@@ -1,0 +1,8 @@
+bs4
+aiogram
+SpeechRecognition
+youtube-search
+regex
+colorama
+requests
+ffmpeg
